@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "752281085312",
+    "firebase_url": "https://btlandroid-bb90a-default-rtdb.firebaseio.com",
+    "project_id": "btlandroid-bb90a",
+    "storage_bucket": "btlandroid-bb90a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752281085312:android:9ac13c09ef71d687ea8d65",
+        "android_client_info": {
+          "package_name": "com.example.btl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmA6wrkdmzXDilv8bnieQhGGw9FD2uEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

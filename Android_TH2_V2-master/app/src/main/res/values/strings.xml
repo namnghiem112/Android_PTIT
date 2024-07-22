@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TH2</string>
+    <string-array name="tinhtrang">
+        <item>Chua thuc hien</item>
+        <item>Dang thuc hien</item>
+        <item>Hoan thanh</item>
+
+    </string-array>
+    <string-array name="congtac">
+        <item>1 minh</item>
+        <item>Lam chung</item>
+
+    </string-array>
+</resources>

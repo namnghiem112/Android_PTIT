@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">de7</string>
+    <string-array name="chuyennganh">
+        <item>CNTT</item>
+        <item>Ke Toan</item>
+        <item>Thiet ke do hoa</item>
+        <item>Quan tri kinh doanh</item>
+    </string-array>
+</resources>

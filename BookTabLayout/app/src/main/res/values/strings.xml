@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10052024</string>
+    <string-array name="tacgia">
+        <item>Nguyen Mang Son</item>
+        <item>Tran Dinh Que</item>
+        <item>Nguyen Duy Phuong</item>
+        <item>Pham The Que</item>
+    </string-array>
+</resources>

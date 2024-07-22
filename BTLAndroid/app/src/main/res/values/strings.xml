@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KTAndroid</string>
+    <string-array name="kythuctap">
+        <item>chưa thực tập</item>
+        <item>đang thực tập</item>
+        <item>hoàn thành</item>
+    </string-array>
+</resources>
